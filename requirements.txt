@@ -1,0 +1,8 @@
+asgiref
+Django
+django-cors-headers
+djangorestframework
+pandas
+pytz
+scikit-learn
+sqlparse
